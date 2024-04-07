@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1, National Geographic Wild
+http://212.0.215.106/IPcam1/mpegts
+#EXTINF:0 tvg-id="hgtv" group-title="Channels",HGTV SD
+http://stm1.notts.md/hgtv/index.m3u8
